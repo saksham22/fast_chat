@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50512901807",
+    "firebase_url": "https://fast-chat-dd8ee.firebaseio.com",
+    "project_id": "fast-chat-dd8ee",
+    "storage_bucket": "fast-chat-dd8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50512901807:android:f8188fc04e26a205e5c65a",
+        "android_client_info": {
+          "package_name": "com.example.fast_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50512901807-gqniot4kjt9gdqbvme2begeln5qc69ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClNBNiU5ZQiFfoxEtUUsrQZF4oWV9MgNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50512901807-gqniot4kjt9gdqbvme2begeln5qc69ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
